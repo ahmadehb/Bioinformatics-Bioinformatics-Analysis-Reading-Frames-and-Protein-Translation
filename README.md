@@ -1,4 +1,4 @@
-# Bioinformatics-Bioinformatics-Analysis-Reading-Frames-and-Protein-Translation
+# BioinformaticsProject
 
 # Bioinformatics Analysis Using Python: Reading Frames and Protein Translation
 
